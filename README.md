@@ -1,0 +1,1 @@
+firstly I used to index page for  get buttuns,then css  is used to design te elements in program,lastly in javascript page i will write a some conditions ,that conditions are give dieection to moving anext to a program
